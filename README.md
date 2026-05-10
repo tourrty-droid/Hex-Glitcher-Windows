@@ -30,7 +30,7 @@
 
 https://github.com/user-attachments/assets/f4ce9476-767d-42d8-9628-b96e2bc6f799
 
-* ПОСЛЕ (скачайте если видео вылетает на 3 секундах)
+* ПОСЛЕ (ВИДЕО СКОРЕЕ ВСЕГО НЕ ЗАПУСТИТСЯ СКАЧАЙТЕ ЕГО)
 
 https://github.com/user-attachments/assets/3cfbde62-e482-4bd0-887a-2b543f554fb5
 
