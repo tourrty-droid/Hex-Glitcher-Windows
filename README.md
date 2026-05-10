@@ -69,4 +69,5 @@ https://github.com/user-attachments/assets/3cfbde62-e482-4bd0-887a-2b543f554fb5
 * На каком языке была написана приложение?: Python. В некоторых случаях мне помогала нейросеть:p
 * Как работает приложение?: (Снизу)
 
-<img width="583" height="470" alt="image" src="https://github.com/user-attachments/assets/66e7c32a-ffa6-4121-b1c9-ef1f23ac87b1" />
+<img width="900" height="730" alt="image" src="https://github.com/user-attachments/assets/0d914bad-2808-4bd3-afa9-526df88dc812" />
+
