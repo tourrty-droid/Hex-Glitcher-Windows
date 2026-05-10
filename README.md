@@ -24,6 +24,16 @@
 
 [![Download Windows]()](https://github.com/tourrty-droid/Hex-Glitcher-Windows/releases/tag/Release)
 
+## Пример работы приложение
+
+*ДО
+
+https://github.com/user-attachments/assets/f4ce9476-767d-42d8-9628-b96e2bc6f799
+
+*ПОСЛЕ
+
+https://github.com/user-attachments/assets/3cfbde62-e482-4bd0-887a-2b543f554fb5
+
 ## Инструкция
 
 1. Скачайте файл по кнопке выше.
