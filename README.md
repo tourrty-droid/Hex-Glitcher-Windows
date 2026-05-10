@@ -1,3 +1,5 @@
+[![Download for Windows](https://shields.io)](https://github.com/tourrty-droid/Hex-Glitcher-Windows/releases/tag/Release)
+
 # Hex Glitcher
 
 Программное обеспечение для модификации медиафайлов через манипуляцию байтами. Позволяет создавать визуальные и звуковые артефакты.
@@ -19,10 +21,6 @@
 Нажмите кнопку «Выполнить в любом случае» (Run anyway).
 
 Программа не является вирусом, она не вносит изменений в систему и работает только с теми файлами, которые вы выбираете сами. Весь исходный код открыт и доступен для проверки в этом репозитории.
-
-## Скачать
-
-[![Download Windows]()](https://github.com/tourrty-droid/Hex-Glitcher-Windows/releases/tag/Release)
 
 ## Пример работы приложение
 
