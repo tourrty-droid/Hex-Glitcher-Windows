@@ -3,7 +3,8 @@
 Программное обеспечение для модификации медиафайлов через манипуляцию байтами. Позволяет создавать визуальные и звуковые артефакты.
 
 ## Скачать
-[![Скачать](https://shields.io)](https://github.com/tourrty-droid/Hex-Glitcher-Windows/releases/tag/Release)
+[![Скачать обычную версию приложения](https://shields.io)](https://github.com/tourrty-droid/Hex-Glitcher-Windows/releases/tag/Release)
+[![Скачать более сломаную версию приложения](https://shields.io)](https://github.com/tourrty-droid/Hex-Glitcher-Windows/releases/tag/Pre-Release)
 
 ## ⚠️ ВНИМАНИЕ: ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ
 
